@@ -166,7 +166,7 @@ new Docute({
                 > to support DativeJs.</note
               >
               <note type="tip">
-                <p>version <b>1.0.1</b> will be released soon</p>
+                <p>version <b>2.0.0</b> has  been released</p>
               </note>
             </div>
           `,
