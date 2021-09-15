@@ -3,7 +3,7 @@
 # **DativeJs - A Micro JavaScript Ui Framework**
 
 ![License](https://img.shields.io/github/license/Tobithedev/dativejs?style=plastic)
-![Version](https://img.shields.io/github/v/release/Tobithedev/dativejs)
+
 ![size](https://img.shields.io/github/size/Tobithedev/dativejs/dist/dative.min.js.svg)
 ![Downloads](https://img.shields.io/jsdelivr/gh/hm/dativeJs/dativejs)
 
