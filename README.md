@@ -2,9 +2,9 @@
 
 # **DativeJs - A Micro JavaScript Ui Framework**
 
-![License](https://img.shields.io/github/license/dativeJs/dativejs?style=plastic)
-![Version](https://img.shields.io/github/v/release/dativeJs/dativejs)
-![size](https://img.shields.io/github/size/dativeJs/dativejs/dist/dative.min.js.svg)
+![License](https://img.shields.io/github/license/Tobithedev/dativejs?style=plastic)
+![Version](https://img.shields.io/github/v/release/Tobithedev/dativejs)
+![size](https://img.shields.io/github/size/Tobithedev/dativejs/dist/dative.min.js.svg)
 ![Downloads](https://img.shields.io/jsdelivr/gh/hm/dativeJs/dativejs)
 
 ### Installation
@@ -15,9 +15,9 @@
 ### CDN
 ```html
 <!--Development-->
-<script src="https://cdn.jsdelivr.net/gh/dativeJs/dativejs@main/dist/dative.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Tobithedev/dativejs@main/dist/dative.js"></script>
 <!--Production-->
-<script src="https://cdn.jsdelivr.net/gh/dativeJs/dativejs@main/dist/dative.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Tobithedev/dativejs@main/dist/dative.min.js"></script>
 ```
 ## Clone The Template
 ```bash
@@ -25,7 +25,7 @@
 ```
 ## EsModule
 ```js
-import Dative from "https://cdn.jsdelivr.net/gh/dativeJs/dativejs@main/dist/dative.es.min.js";
+import Dative from "https://cdn.jsdelivr.net/gh/Tobithedev/dativejs@main/dist/dative.es.min.js";
 ```
 <!--## Npm
 ```bash
@@ -40,7 +40,7 @@ import Dative from 'dative';
 ```html
 <body>
   <div id="app"></div>
-  <script src="https://cdn.jsdelivr.net/gh/dativeJs/dativejs@main/dist/dative.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/Tobithedev/dativejs@main/dist/dative.min.js"></script>
   <script>
     // Code goes here
   </script>
@@ -50,7 +50,7 @@ import Dative from 'dative';
 ```html
 <body>
   <div id="app"></div>
-  <script src="https://cdn.jsdelivr.net/gh/dativeJs/dativejs@main/dist/dative.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/Tobithedev/dativejs@main/dist/dative.min.js"></script>
   <script>
     var vm = new Dative({
       el: "#app",
