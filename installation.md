@@ -7,9 +7,9 @@
 ### CDN
 ```html
 <!--Development-->
-<script src="https://cdn.jsdelivr.net/gh/dativeJs/dativejs@main/dist/dative.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Tobithedev/dativejs@main/dist/dative.js"></script>
 <!--Production-->
-<script src="https://cdn.jsdelivr.net/gh/dativeJs/dativejs@main/dist/dative.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Tobithedev/dativejs@main/dist/dative.min.js"></script>
 ```
 ## Clone The Template
 ```bash
